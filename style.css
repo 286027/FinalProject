@@ -1,0 +1,44 @@
+body{
+    background:#5532E3;
+   }
+
+   .navbar-brand{
+    font-size: 25px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal
+
+  } 
+
+  h1{
+    text-align: center;
+color: #E0AF2E;
+font-size: 25px;
+font-family: "Poppins", sans-serif;
+font-weight: 800;
+font-style: normal
+
+
+  }
+
+  p{
+    color: #E0AF2E;
+font-size: 25px;
+font-family: "Poppins", sans-serif;
+font-weight: 800;
+font-style: normal
+  }
+  hr {
+  width: 0 auto; 
+  height: 0 auto;
+color: #E0AF2E;
+size: 5;
+  }
+  a:link, a:visited {
+    background-color: #6252FA;
+    color: #E0AF2E;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
